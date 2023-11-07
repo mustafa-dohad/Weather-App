@@ -18,11 +18,16 @@ This is a simple web application that allows users to check the weather conditio
 3. Enter the name of the city for which you want to check the weather.
 4. Click the "Get Weather" button to display the weather information.
 
-## Screenshots
-
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 - Weather API
+
+---
+## Screenshots
+![Weather App Screenshot](images/1.png)
+![Weather App Screenshot](images/2.png)
+![Weather App Screenshot](images/3.png)
+![Weather App Screenshot](images/4.png)
