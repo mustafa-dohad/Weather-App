@@ -18,7 +18,7 @@ This is a simple web application that allows users to check the weather conditio
 3. Enter the name of the city for which you want to check the weather.
 4. Click the "Get Weather" button to display the weather information.
 
-## Video of the Project
+## Screenshots
 
 ## Technologies Used
 
