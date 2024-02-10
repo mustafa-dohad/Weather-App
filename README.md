@@ -1,6 +1,7 @@
 # Weather Report Web App
 
 This is a simple web application that allows users to check the weather conditions for a specific city. The application uses HTML, CSS, and JavaScript, along with a weather API to fetch and display weather information.
+
 Brace yourselves for a journey through my latest masterpiece - [**Live Demo**](https://dohad-weather-webapp.netlify.app/) 
 ## Features
 
